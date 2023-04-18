@@ -3,4 +3,6 @@
     <string name="home_icon">Home</string>>
     <string name="profile">Profile</string>
     <string name="history">History</string>
+    <string name="Title1">Psychology</string>
+    <string name="Title2">App</string>
 </resources>
