@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="MainColor">#F6F6F6</color>
+    <color name="Menu">#FCDD76</color>
+    '<!--' 1560bd_fcdd76 '-->'
+</resources>
