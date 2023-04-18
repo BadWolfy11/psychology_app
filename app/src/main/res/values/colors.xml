@@ -3,6 +3,6 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="MainColor">#F6F6F6</color>
-    <color name="Menu">#FCDD76</color>
+    <color name="Menu"></color>
     '<!--' 1560bd_fcdd76 '-->'
 </resources>
